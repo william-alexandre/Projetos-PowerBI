@@ -33,11 +33,6 @@ Cada pasta contém:
 * Design responsivo e boas práticas de visualização
 * Integração de múltiplas fontes de dados (Excel, CSV, Web)
 
-## 📸 Exemplos Visuais
-
-> Adicione aqui algumas imagens dos dashboards mais chamativos do seu portfólio.
-> Pode usar a tag `![nome](caminho-da-imagem)` ou inserir GIFs.
-
 ## 🔧 Como Usar
 
 1. Baixe o arquivo `.pbix` desejado.
